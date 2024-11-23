@@ -15,7 +15,7 @@ export default function DeactivateForm() {
   const [state, formAction] = useActionState(submitForm, initialState);
 
   return (
-    <form action={formAction} className="space-y-4 max-w-md mx-auto">
+    <form action={formAction} className="space-y-5 max-w-md mx-auto">
       <div className="space-y-2">
         <Label htmlFor="email">Flymaster Login Email</Label>
         <Input
