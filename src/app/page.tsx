@@ -10,7 +10,7 @@ export default function Home() {
       <p className="max-w-md mx-auto my-6">
         You should never enter your Flymaster password anywhere except on the
         Flymaster website. If you trust me, you can still to do it and use this
-        tool. The password is not saved. Convince youself:{" "}
+        tool. The password is not saved. Convince yourself:{" "}
         <Link
           href="https://github.com/JEK58/flymaster-tracker-mode"
           className="underline"
