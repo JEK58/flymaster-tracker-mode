@@ -8,8 +8,8 @@ export default function Home() {
         Deactivate comp mode
       </h1>
       <p className="max-w-md mx-auto my-6">
-        You should never enter your flymaster password anywhere except on the
-        flymaster website. If you trust me, you can still to do it and use this
+        You should never enter your Flymaster password anywhere except on the
+        Flymaster website. If you trust me, you can still to do it and use this
         tool. The password is not saved. Convince youself:{" "}
         <Link
           href="https://github.com/JEK58/flymaster-tracker-mode"
